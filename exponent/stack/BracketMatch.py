@@ -1,3 +1,7 @@
+'''
+https://www.tryexponent.com/practice/prepare/bracket-match
+'''
+
 from collections import deque
 
 def bracket_match(text: str) -> int:
