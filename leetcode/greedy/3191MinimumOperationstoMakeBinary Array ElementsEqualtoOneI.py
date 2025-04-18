@@ -1,5 +1,7 @@
 '''
 https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/
+
+Needed to use one hint that mentioned sliding window + greedy
 '''
 
 class Solution:
