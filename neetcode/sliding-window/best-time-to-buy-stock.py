@@ -1,4 +1,6 @@
 '''
+https://neetcode.io/problems/buy-and-sell-crypto?list=neetcode150
+
 Input: prices = [10,1,5,6,7,1]
                 b   b       e
 Output: 6
